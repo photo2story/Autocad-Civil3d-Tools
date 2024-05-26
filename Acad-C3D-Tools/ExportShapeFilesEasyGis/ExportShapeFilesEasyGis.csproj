@@ -283,11 +283,11 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="loadNet.scr" />
-    <None Include="packages.config" />
     <Content Include="X:\AutoCAD DRI - QGIS\EGIS\Proj6\proj.db">
       <Link>Proj6\proj.db</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="X:\AutoCAD DRI - QGIS\EGIS\geomutil_lib.dll">
